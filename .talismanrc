@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: .envrc
+  checksum: c28902f8b646704ebb9536cb30b625162e55982da4e5c471a9275ad51d9ae690
+- filename: devbox.lock
+  checksum: 6b26547ecf2f53d1a3997299f4e31bd7a51e61645ab06b89dffbaf8776b8c71f
+version: ""

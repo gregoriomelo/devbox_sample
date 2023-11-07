@@ -1,0 +1,92 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "awscli2@latest": {
+      "last_modified": "2023-11-02T13:29:18Z",
+      "resolved": "github:NixOS/nixpkgs/b644d97bda6dae837d577e28383c10aa51e5e2d2#awscli2",
+      "source": "devbox-search",
+      "version": "2.13.28",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/l2a3c2s399hd79qpdf09241fzb5bsv4v-awscli2-2.13.28"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/c01gl2hyb3q4k4xalfb6b6q0phmys3gz-awscli2-2.13.28"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/c3146m51r69hklc8jbz3rv8jddxz5h0x-awscli2-2.13.28"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/892ffp487jdx41iwl4936cv4266kid9z-awscli2-2.13.28"
+        }
+      }
+    },
+    "go@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#go",
+      "source": "devbox-search",
+      "version": "1.21.3",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/1fxz1flmv4a4m5pvjmmzxlaznjzybjcp-go-1.21.3"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/iyaywzzkhm1pi5ysd83ai9pdpic9b9ny-go-1.21.3"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/yqqhrzr15819draxsyqrn2hf5c22ffhk-go-1.21.3"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/dwmb0qcai52d0zkgpm6f5ifx2a8yvsdg-go-1.21.3"
+        }
+      }
+    },
+    "python312@latest": {
+      "last_modified": "2023-10-25T20:49:13Z",
+      "plugin_version": "0.0.1",
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#python312",
+      "source": "devbox-search",
+      "version": "3.12.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/9zq7vfk8a9fiyj66prg0a3zh28bz06yk-python3-3.12.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/zgvw696qpd5kn846k1l54w1s3rw4z8h1-python3-3.12.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/xanfjjzh237y1kdwy796qwa6415xrb18-python3-3.12.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/smpmzk81zrhxsajzkxjd21hqz50a9wlq-python3-3.12.0"
+        }
+      }
+    },
+    "terraform@latest": {
+      "last_modified": "2023-11-02T13:29:18Z",
+      "resolved": "github:NixOS/nixpkgs/b644d97bda6dae837d577e28383c10aa51e5e2d2#terraform",
+      "source": "devbox-search",
+      "version": "1.6.3"
+    },
+    "terragrunt@latest": {
+      "last_modified": "2023-11-02T13:29:18Z",
+      "resolved": "github:NixOS/nixpkgs/b644d97bda6dae837d577e28383c10aa51e5e2d2#terragrunt",
+      "source": "devbox-search",
+      "version": "0.53.0",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/c0738qrfdjhbn4mgcirbaw854lqclq45-terragrunt-0.53.0"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/x8pvmyqr9kyk4n66w1pxg64skjrm4b2f-terragrunt-0.53.0"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/wa611y2qfgjhrmxzf07w8y3khrwlxkqw-terragrunt-0.53.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/1q59khws43pny3gj1qq8rd5airs6zixn-terragrunt-0.53.0"
+        }
+      }
+    }
+  }
+}
